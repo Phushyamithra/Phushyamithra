@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phushyamithra
 - 👀 I’m interested in Gaming , Animation and Software Development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :  Linkedin - linkedin.com/in/phushya-mithra-gauri-77a359171
                          Gmail - gauriphushyamithra@gmail.com 
